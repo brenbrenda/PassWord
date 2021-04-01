@@ -13,6 +13,7 @@
 		C269EFFA2614B31F00369D6B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C269EFF82614B31F00369D6B /* Main.storyboard */; };
 		C269EFFC2614B32200369D6B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C269EFFB2614B32200369D6B /* Assets.xcassets */; };
 		C269EFFF2614B32200369D6B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C269EFFD2614B32200369D6B /* LaunchScreen.storyboard */; };
+		C269F00D2615EAC200369D6B /* Password.swift in Sources */ = {isa = PBXBuildFile; fileRef = C269F00C2615EAC100369D6B /* Password.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C269EFFB2614B32200369D6B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C269EFFE2614B32200369D6B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C269F0002614B32200369D6B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C269F00C2615EAC100369D6B /* Password.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Password.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C269EFF22614B31F00369D6B /* AppDelegate.swift */,
 				C269EFF42614B31F00369D6B /* SceneDelegate.swift */,
 				C269EFF62614B31F00369D6B /* ViewController.swift */,
+				C269F00C2615EAC100369D6B /* Password.swift */,
 				C269EFF82614B31F00369D6B /* Main.storyboard */,
 				C269EFFB2614B32200369D6B /* Assets.xcassets */,
 				C269EFFD2614B32200369D6B /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C269F00D2615EAC200369D6B /* Password.swift in Sources */,
 				C269EFF72614B31F00369D6B /* ViewController.swift in Sources */,
 				C269EFF32614B31F00369D6B /* AppDelegate.swift in Sources */,
 				C269EFF52614B31F00369D6B /* SceneDelegate.swift in Sources */,
